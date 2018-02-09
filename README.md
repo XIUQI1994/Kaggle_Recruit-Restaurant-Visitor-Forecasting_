@@ -1,5 +1,5 @@
 # Recruit Restaurant Visitor Forecasting Competition on Kaggle
-My solution ranked 11th out of 2216 on the Recruit Restaurant Visitor Forecasting Kaggle competition. 
+My solution ranked 11th out of 2216 on the Recruit Restaurant Visitor Forecasting Kaggle competition. \\
 The Kaggle data can be found [here](https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting/data)
 The weather data can be found [here](https://www.kaggle.com/huntermcgushion/rrv-weather-data)
 The get\_rwm.py script calculates the rolling weighted mean for training data,
